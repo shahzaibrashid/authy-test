@@ -1,6 +1,6 @@
 {
   "name": "authy-assignment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Authy and Node.js",
   "scripts": {
     "start": "node index.js"
